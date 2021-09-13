@@ -7,6 +7,7 @@ autopep8==1.5.7
 backcall==0.2.0
 backports.zoneinfo==0.2.1
 base58==2.1.0
+transformers
 bleach==4.1.0
 blinker==1.4
 cachetools==4.2.2
